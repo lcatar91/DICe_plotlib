@@ -8,6 +8,9 @@ The "Images" folder contains the pictures taken during the experiments. Here are
 ## DICe results
 The "DICe results" folder contains the files after calculations made by the DICe software
 
+# Run script
+The python script, image and DICe results need to be located in the same folder
+
 ## Library
 `pip install numpy`  
 `pip install matplotlib`  
